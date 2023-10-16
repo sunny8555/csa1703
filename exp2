@@ -1,4 +1,4 @@
-N = 8 # (size of the chessboard)
+N = 8
 def solveNQueens(board, col):
 	if col == N:
 		print(board)
